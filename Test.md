@@ -1,1 +1,1 @@
-Buhuhuhuhuhuhu
+- %%[Buhuhuhuhuhuhu]()%%
