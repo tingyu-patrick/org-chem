@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 320" width="100%" height="auto" style="background:#ffffff; font-family:'Segoe UI',Arial,sans-serif;">
+
+  <defs>
+    <marker id="el-arrow" markerWidth="8" markerHeight="8" refX="6.2" refY="4" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,1 L7,4 L0,7 L1.8,4 Z" fill="#dc2626"/>
+    </marker>
+    <marker id="fishhook" markerWidth="9" markerHeight="9" refX="6.5" refY="4.5" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,4.5 L7,4.5 L1.5,1 Z" fill="#dc2626"/>
+    </marker>
+    <marker id="rxn-arrow" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,1.2 L8,4.5 L0,7.8 L1.8,4.5 Z" fill="#1e293b"/>
+    </marker>
+  </defs>
+  <rect x="2" y="2" width="976" height="316" rx="10" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+  <rect x="2" y="2" width="976" height="34" rx="10" fill="#f8fafc"/>  <line x1="2" y1="36" x2="978" y2="36" stroke="#e2e8f0" stroke-width="1"/>  <text x="18" y="24" font-size="14" font-weight="700" fill="#0f172a">10. Dichlorocarbene Addition (CHCl3, KOH): α-Elimination &amp; Syn Cyclopropanation</text>
+  <rect x="16" y="48" width="305" height="254" rx="8" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="26" y="66" font-size="12" font-weight="700" fill="#334155">Step 1: Deprotonation of CHCl3</text>
+  <rect x="340" y="48" width="305" height="254" rx="8" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="350" y="66" font-size="12" font-weight="700" fill="#334155">Step 2: α-Elimination → Singlet :CCl2</text>
+  <rect x="664" y="48" width="300" height="254" rx="8" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="674" y="66" font-size="12" font-weight="700" fill="#334155">Step 3: Concerted Syn [2+1] Addition</text>
+  <rect x="57.6" y="152.0" width="34.8" height="19.0" fill="#ffffff" rx="3"/>
+  <text x="75.0" y="170.0" font-size="15" font-weight="700" fill="#0284c7" text-anchor="middle">HO:⁻</text>
+  <line x1="145.0" y1="165.0" x2="195.0" y2="165.0" stroke="#0f172a" stroke-width="2.2" stroke-linecap="round"/>
+  <rect x="130.0" y="152.0" width="16.0" height="19.0" fill="#ffffff" rx="3"/>
+  <text x="138.0" y="170.0" font-size="15" font-weight="700" fill="#0f172a" text-anchor="middle">H</text>
+  <rect x="187.6" y="152.0" width="34.8" height="19.0" fill="#ffffff" rx="3"/>
+  <text x="205.0" y="170.0" font-size="15" font-weight="700" fill="#0f172a" text-anchor="middle">CCl3</text>
+  <path d="M 95.0,155.0 Q 115.0,128.0 132.0,152.0" fill="none" stroke="#dc2626" stroke-width="1.9" marker-end="url(#el-arrow)"/>
+  <path d="M 170.0,158.0 Q 185.0,128.0 200.0,152.0" fill="none" stroke="#dc2626" stroke-width="1.9" marker-end="url(#el-arrow)"/>
+  <text x="168.0" y="265.0" font-size="12" font-weight="600" fill="#475569" text-anchor="middle">Forms trichloromethyl carbanion (⁻:CCl3)</text>
+  <line x1="312.0" y1="175.0" x2="348.0" y2="175.0" stroke="#1e293b" stroke-width="2.0" marker-end="url(#rxn-arrow)"/>
+  <text x="330.0" y="167.0" font-size="11.5" font-weight="700" fill="#1e293b" text-anchor="middle">-H2O</text>
+  <line x1="440.0" y1="165.0" x2="505.0" y2="165.0" stroke="#0f172a" stroke-width="2.2" stroke-linecap="round"/>
+  <rect x="403.9" y="152.0" width="52.2" height="19.0" fill="#ffffff" rx="3"/>
+  <text x="430.0" y="170.0" font-size="15" font-weight="700" fill="#0f172a" text-anchor="middle">⁻:CCl2</text>
+  <rect x="501.9" y="152.0" width="26.1" height="19.0" fill="#ffffff" rx="3"/>
+  <text x="515.0" y="170.0" font-size="15" font-weight="700" fill="#0f172a" text-anchor="middle">Cl:</text>
+  <path d="M 475.0,158.0 Q 492.0,128.0 510.0,150.0" fill="none" stroke="#dc2626" stroke-width="1.9" marker-end="url(#el-arrow)"/>
+  <text x="490.0" y="225.0" font-size="12" font-weight="600" fill="#0284c7" text-anchor="middle">→  :CCl2 (sp² lone pair + empty p orbital) + Cl⁻</text>
+  <text x="490.0" y="268.0" font-size="12" font-weight="600" fill="#b91c1c" text-anchor="middle">α-Elimination (loss of H⁺ and Cl⁻ from same C)</text>
+  <line x1="636.0" y1="175.0" x2="672.0" y2="175.0" stroke="#1e293b" stroke-width="2.0" marker-end="url(#rxn-arrow)"/>
+  <text x="654.0" y="167.0" font-size="11.5" font-weight="700" fill="#1e293b" text-anchor="middle">+ C=C</text>
+  <line x1="740.0" y1="218.2" x2="815.0" y2="218.2" stroke="#0f172a" stroke-width="2.1" stroke-linecap="round"/>
+  <line x1="740.0" y1="211.8" x2="815.0" y2="211.8" stroke="#0f172a" stroke-width="2.1" stroke-linecap="round"/>
+  <rect x="732.0" y="202.0" width="16.0" height="19.0" fill="#ffffff" rx="3"/>
+  <text x="740.0" y="220.0" font-size="15" font-weight="700" fill="#0f172a" text-anchor="middle">C</text>
+  <rect x="807.0" y="202.0" width="16.0" height="19.0" fill="#ffffff" rx="3"/>
+  <text x="815.0" y="220.0" font-size="15" font-weight="700" fill="#0f172a" text-anchor="middle">C</text>
+  <rect x="756.2" y="112.0" width="43.5" height="19.0" fill="#ffffff" rx="3"/>
+  <text x="778.0" y="130.0" font-size="15" font-weight="700" fill="#0284c7" text-anchor="middle">:CCl2</text>
+  <path d="M 760.0,206.0 Q 735.0,165.0 762.0,135.0" fill="none" stroke="#dc2626" stroke-width="1.9" marker-end="url(#el-arrow)"/>
+  <path d="M 795.0,135.0 Q 822.0,168.0 808.0,202.0" fill="none" stroke="#dc2626" stroke-width="1.9" marker-end="url(#el-arrow)"/>
+  <text x="895.0" y="175.0" font-size="12" font-weight="700" fill="#0f172a" text-anchor="middle">→ 1,1-Cl2-cyclopropane</text>
+  <text x="815.0" y="278.0" font-size="12" font-weight="600" fill="#0f172a" text-anchor="middle">Concerted Syn &amp; Stereospecific</text>
+</svg>

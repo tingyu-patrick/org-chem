@@ -1,0 +1,86 @@
+{
+  "01-hx-addition": [],
+  "02-x2-addition": [
+    {
+      "title": "File:Mechanism for first step of halogenation of alkene 3B bromonium ion formation.svg",
+      "file": "02-x2-addition_0.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Mechanism_for_first_step_of_halogenation_of_alkene_3B_bromonium_ion_formation.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  ],
+  "03-halohydrin": [],
+  "04-oxymercuration": [
+    {
+      "title": "File:Oxymercuration mechanism.svg",
+      "file": "04-oxymercuration_0.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Oxymercuration_mechanism.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "title": "File:Oxymercuration Stepwise.svg",
+      "file": "04-oxymercuration_1.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Oxymercuration_Stepwise.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  ],
+  "05-hydroboration": [
+    {
+      "title": "File:Hydroboration-oxidation-mechanism.svg",
+      "file": "05-hydroboration_0.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Hydroboration-oxidation-mechanism.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "title": "File:Mechanism for alkyl migration in oxidation step of hydroboration oxidation.svg 8.5.svg",
+      "file": "05-hydroboration_1.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Mechanism_for_alkyl_migration_in_oxidation_step_of_hydroboration_oxidation.svg_8.5.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  ],
+  "06-hydrogenation": [
+    {
+      "title": "File:Catalytic hydrogenation mechanism.svg 8.6.svg",
+      "file": "06-hydrogenation_0.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Catalytic_hydrogenation_mechanism.svg_8.6.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "title": "File:Mechanism of Palladium Hydrogenation.png",
+      "file": "06-hydrogenation_1.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Mechanism_of_Palladium_Hydrogenation.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  ],
+  "07-epoxidation": [],
+  "08-epoxide-hydrolysis": [
+    {
+      "title": "File:Epoxide Ring-Opening by Hydrolysis Acid Catalyzed mechanism.png",
+      "file": "08-epoxide-hydrolysis_0.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Epoxide_Ring-Opening_by_Hydrolysis_Acid_Catalyzed_mechanism.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  ],
+  "09-oso4-hydroxylation": [],
+  "10-carbene-dichloro": [],
+  "11-simmons-smith": [
+    {
+      "title": "File:Simmons-Smith reaction Mechanism traditional example.svg",
+      "file": "11-simmons-smith_0.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Simmons-Smith_reaction_Mechanism_traditional_example.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "title": "File:Simmons-Smith reaction mechanism.png",
+      "file": "11-simmons-smith_1.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Simmons-Smith_reaction_mechanism.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  ],
+  "12-ozonolysis": [],
+  "13-kmno4-cleavage": [],
+  "14-diol-cleavage": [],
+  "15-allylic-bromination": [],
+  "16b-socl2": [],
+  "16c-pbr3": [
+    {
+      "title": "File:PBr3 alcohol rxn.svg",
+      "file": "16c-pbr3_0.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/PBr3_alcohol_rxn.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "title": "File:PBr3 alcohol.jpg",
+      "file": "16c-pbr3_1.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/PBr3_alcohol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  ]
+}

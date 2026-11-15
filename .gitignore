@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Obsidian local workspace & plugin credentials
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/remotely-save/data.json
+
+# OS
+.DS_Store
+Thumbs.db
